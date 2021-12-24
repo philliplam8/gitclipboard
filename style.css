@@ -1,0 +1,15 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+p:hover {
+    background-color: grey;
+}
+
+p:active {
+    background-color: yellow;
+}
